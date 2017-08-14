@@ -1,3 +1,6 @@
+package  com.afrohitech.weekthree;
+
+
 /*How to create a pyramid of numbers in java?
 
 			Write a java program to create a pyramid of numbers in different patterns. [Solution]

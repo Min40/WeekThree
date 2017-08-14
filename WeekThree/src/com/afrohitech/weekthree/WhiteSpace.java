@@ -1,3 +1,6 @@
+
+package  com.afrohitech.weekthree;
+
 /*
  * 
  	How do you remove all white spaces from a string in java?
@@ -18,7 +21,7 @@ public class WhiteSpace {
 			 
 			        String strWithoutSpace = str.replaceAll("\\s", "");
 			 
-			        System.out.println(strWithoutSpace);         //Output : CoreJavajspservletsjdbcstrutshibernatespring
+			        System.out.println(strWithoutSpace);         
 			 
 			        //2. Without Using replaceAll() Method
 			 
@@ -34,7 +37,7 @@ public class WhiteSpace {
 			            }
 			        }
 			 
-			        System.out.println(sb);           //Output : CoreJavajspservletsjdbcstrutshibernatespring
+			        System.out.println(sb);          
 			    }
 			}
 
